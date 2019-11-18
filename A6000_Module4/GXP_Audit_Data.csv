@@ -1,0 +1,127 @@
+﻿Vendor,Audit.Status,In.USA.or.OUS,Location,Services.Audited,GxP.Area,Audit.Type,Audit.Method,Proposed.Quarter,VRTX.QA.Coordinator,GxP.Auditor,CSQA.Auditor,TW.Report.Number,Date.of.Intake,Date.Q.sent,Date.Q.Rcvd,Date.On.Site.Scheduled,Audit.Start.Date,Audit.End.Date,Date.Final..Report.Due,Date.of..Completion,Completed,Notes
+Vendor1,Not In Scope,OUS,"Bonn, Germany","consulting/cenral budget negotiations for sites lcoated in Germany, Vendor (select studies), and website posting (select studies)",GCP,Qualification,None,Q2,JMD,(Unknown),(Unknown),(Unknown),1/5/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor2,Closed,USA,"Princeton, NJ",CRO,GCP,Qualification,On Site,Q1,JMD,MR,DF,22552,1/5/17,(Unknown),(Unknown),(Unknown),2/14/17,2/16/17,3/15/17,3/16/17,Delayed ,
+Vendor3,Pending,OUS,"Munich, Germany",(Unknown),GCP,Qualification,TBD,Q3,JMD,(Unknown),(Unknown),(Unknown),1/5/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor4,Completed,USA,"Indianapolis, IN","Life cycle of data during the sample processing stages; Study start up; Translation of protocols into lab tests and how they are performed, documented, and managed; Global processes and harmonization between other Vendor sites; Linkage of systems at other Vendor labs and usage of a centralized system for data; Robust process in place for third party labs and oversight of transferring samples at different locations; Tech transfer process; Sample management",GCP,Qualification,On Site,Q1,JMD,MR,AA,(Unknown),1/5/17,(Unknown),(Unknown),6/5/17,7/12/17,7/13/17,8/12/17,8/11/17,On-time,
+Vendor5,Closed,OUS,"Heidelberg, Germany",(Unknown),GCP,Qualification,On Site,Q1,JMD,PK,DF,22501,1/13/17,(Unknown),(Unknown),(Unknown),2/7/17,2/8/17,3/10/17,3/10/17,On-time,
+Vendor6,Closed,OUS,"Ontaria, Canada", Registry Database,GCP,Qualification,Questionnaire,Q1,JMD,JO,LG,22620,1/13/17,1/19/17,2/1/17,(Unknown),(Unknown),(Unknown),3/3/17,3/3/17,On-time,
+Vendor7,Closed,OUS,"Oakville, Canada",(Unknown),GCP,Qualification,Questionnaire,Q1,JMD,JO,LG,22372,1/13/17,1/19/17,2/2/17,(Unknown),(Unknown),(Unknown),3/3/17,3/3/17,On-time,
+Vendor8,Closed,USA,"Durham, NC",(Unknown),GCP,Requalification,On Site,Q1,JMD,KB,MD,23134,1/13/17,(Unknown),(Unknown),1/13/17,2/20/17,2/23/17,3/25/17,3/24/17,On-time,
+Vendor9,Closed,USA,"Mattawan, MI","General Toxicology
+Genetic Toxicology
+Carcinogenicity
+Safety Pharmacology
+Analytical
+Bioanalytical
+Toxicokinetics",GLP,Requalification,On Site,Q2,MM,RD,AK,23135,1/13/17,(Unknown),(Unknown),3/17/17,4/25/17,4/27/17,5/27/17,5/19/17,On-time,
+Vendor10,Closed,USA,"Rockville, MD","Genetic Toxicology
+Mammalian Toxicology
+Clinical Pathology
+Safety Pharmacology
+Histopathology
+Bioanalytical
+Analytical
+Toxicokinetics",GLP,Requalification,On Site,Q1,MM,RD,DF,22648,1/13/17,(Unknown),(Unknown),3/8/17,3/21/17,3/23/17,4/22/17,4/21/17,On-time,
+Vendor11,Not In Scope,USA,"Ashland, OH","General Toxicology
+Genetic Toxicology
+Carcinogenicity
+Safety Pharmacology
+Analytical
+Bioanalytical",GLP,Requalification,None,Q1,MM,(Unknown),TBD,(Unknown),1/13/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor12,Closed,USA,"Emeryville, CA",(Unknown),GVP,Qualification,Questionnaire,Q1,DL,(Unknown),LG,22379,1/25/17,1/26/17,3/23/17,(Unknown),(Unknown),(Unknown),4/22/17,4/10/17,On-time,
+Vendor13,Closed,OUS,"Prague, Czech Republic",(Unknown),GVP,Qualification,Questionnaire,Q1,DL,(Unknown),LG,22192,1/25/17,1/26/17,3/1/17,(Unknown),(Unknown),(Unknown),4/1/17,4/4/17,Delayed ,
+Vendor14,Closed,OUS,"Petach Tikva, Israel",(Unknown),GVP,Qualification,Questionnaire,Q1,DL,(Unknown),LG,22203,1/25/17,1/27/17,2/28/17,(Unknown),(Unknown),(Unknown),3/30/17,4/4/17,Delayed ,
+Vendor15,Closed,OUS,"Richmond, United Kingdom",(Unknown),GVP,Qualification,Questionnaire,Q1,DL,(Unknown),LG,22381,1/25/17,1/26/17,3/2/17,(Unknown),(Unknown),(Unknown),4/1/17,4/10/17,Delayed ,
+Vendor16,Closed,OUS,"Chandigah, India",(Unknown),GVP,Qualification,Questionnaire,Q1,DL,(Unknown),LG,22223,1/25/17,1/26/17,3/8/17,(Unknown),(Unknown),(Unknown),4/7/17,3/23/17,On-time,
+Vendor17,Closed,OUS,"Auckland, New Zealand",(Unknown),GVP,Qualification,Questionnaire,Q1,DL,(Unknown),LG,22380,1/25/17,1/26/17,3/8/17,(Unknown),(Unknown),(Unknown),4/7/17,4/27/17,Delayed ,
+Vendor18,Not In Scope,OUS,"Vincenza, Italy","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution,  Test Articles, Reference Standard",GMP,Requalification,None,Q1,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),2/7/17,2/21/17,2/24/17,3/26/17,(Unknown),(Unknown),
+Vendor19,Not In Scope,OUS,"Ponte Cremenaga, Swizerland","Spray Dried Dispersion
+Dry Powder Inhaler Characterization",GMP,Qualification,None,Q1,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor20,In Progress,OUS,"Dudley, United Kingdom","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services,  Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution, Test Articles, Reference Standard",GMP,Requalification,On Site,Q1,GN,TB,TB,21871,2/8/17,(Unknown),(Unknown),5/4/17,5/10/17,5/10/17,6/9/17,(Unknown),(Unknown),
+Vendor21,In Progress,USA,"Malvern, PA","DS Intermediate and/or DS Mfg., Analytical Services, Warehouse & Distribution, Test Articles, Reference Standard",GMP,Requalification,On Site,Q1,GN,RN,DF,21875,2/8/17,(Unknown),(Unknown),5/4/17,6/12/17,6/13/17,7/13/17,(Unknown),(Unknown),
+Vendor22,Completed,USA,"Bensenville, IL","Warehouse & Distribution, Brokerage / Transportation",GDP,Qualification,On Site,Q1,GN,LDS,CR,21876,2/8/17,(Unknown),(Unknown),Week of 20 Feb,2/20/17,2/21/17,3/23/17,3/23/17,On-time,
+Vendor23,Completed,USA,"High Point, NC","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution;  Test Articles, Reference Standard",GMP,Requalification,On Site,Q2,GN,LDS,DF,21879,2/8/17,(Unknown),(Unknown),3/24/17,4/3/17,4/4/17,5/4/17,5/4/17,On-time,
+Vendor24,In Progress,USA,"Charles City, IA ","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Qualification,On Site,Q2,GN,LDS,AA,21880,2/8/17,4/20/17,(Unknown),5/4/17,6/20/17,6/21/17,7/21/17,(Unknown),(Unknown),
+Vendor25,In Progress,OUS,"Tokyo, Japan","Raw Material Mfg., Starting Matertial Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Qualification,On Site,Q2,GN,TB,TB,22033,2/8/17,(Unknown),(Unknown),5/4/17,6/26/17,6/27/17,7/27/17,(Unknown),(Unknown),
+Vendor26,Pending,OUS,"Jiuzhou, China","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Qualification,On Site,Q2,GN,TB,TB,(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor27,Pending,OUS,"Goa, India","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Qualification,On Site,Q2,GN,TB,TB,(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor28,Not In Scope,USA,"Secaucus, NJ","Comparator/co-medication purchase;
+ability to outsource placebo development and manufacturing to a third party",GMP,Qualification,None,Q2,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor29,Not In Scope,OUS,"Brampton, Canada",Warehouse & Distribution,GDP,Requalification,Q in 2016,Q2,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor30,Not In Scope,OUS,"Ankara, Turkey",Warehouse & Distribution,GDP,Qualification,None,Q2,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor31,Not In Scope,OUS,"Harsewinkel, Germany",Warehouse & Distribution,GDP,Qualification,None,Q2,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor32,Not In Scope,OUS,"Moscow, Russia",Warehouse & Distribution,GDP,Qualification,None,Q2,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor33,In Progress,USA,"Whippany, NJ","DP Intermediate and/or DP Mfg.,  Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Requalification,On Site,Q2,GN,SK,JR,21870,2/8/17,(Unknown),(Unknown),5/3/17,5/31/17,6/1/17,7/1/17,(Unknown),(Unknown),
+Vendor34,Scheduled,USA,"Wilmington, NC","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Requalification,On Site,Q2,GN,(Unknown),CL,(Unknown),2/8/17,(Unknown),(Unknown),6/30/17,10/10/17,10/11/17,11/10/17,(Unknown),(Unknown),
+Vendor35,Scheduled,OUS,"Jiande Zhejiang, China","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution, Test Articles, Reference Standard",GMP,Requalification,On Site,Q2,GN,SK,AK,(Unknown),2/8/17,(Unknown),(Unknown),9/27/17,11/27/17,11/28/17,12/28/17,(Unknown),(Unknown),
+Vendor36,In Progress,USA,"Lancaster, PA","Analytical Services, Microbiology Testing Services",GMP,Requalification,On Site,Q2,GN,RJC,BM,21888,2/8/17,(Unknown),(Unknown),8/3/17,8/31/17,8/31/17,9/30/17,(Unknown),(Unknown),
+Vendor37,Scheduled,USA,"Rockford, IL","Pkg. & Labeling Mfg., Analytical  Services, Warehouse & Distribution",GDP,Requalification,On Site,Q2,GN,CT,PW,21889,2/8/17,(Unknown),(Unknown),9/20/17,10/12/17,10/13/17,11/12/17,(Unknown),(Unknown),
+Vendor38,In Progress,OUS,"Deajeon, Korea","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Requalification,On Site,Q2,GN,TB,TB,21890,2/8/17,(Unknown),(Unknown),5/4/17,6/29/17,6/30/17,7/30/17,(Unknown),(Unknown),
+Vendor39,In Progress,OUS,"Loures, Portugal","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution, Test Articles",GMP,Requalification,On Site,Q2,GN,(Unknown),WS,(Unknown),2/8/17,(Unknown),(Unknown),5/4/17,9/27/17,9/29/17,10/29/17,(Unknown),(Unknown),
+Vendor40,In Progress,USA,"Bend, OR","Starting Matertial Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution, Test Articles, Reference Standard",GMP,Requalification,On Site,Q2,GN,(Unknown),WS,21892,2/8/17,(Unknown),(Unknown),5/2/17,8/1/17,8/2/17,9/1/17,(Unknown),(Unknown),
+Vendor41,Not In Scope,USA,"Highland Park, NJ",503a Compounding Services,GMP,Requalification,None,Q2,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor42,In Progress,OUS,"Dartford, United Kingdom","DS Intermediate and/or DS Mfg., Analytical Services, Warehouse & Distribution, Test Articles, Reference Standard",GMP,Requalification,On Site,Q3,GN,TB,TB,21897,2/8/17,(Unknown),(Unknown),5/4/17,7/10/17,7/10/17,8/9/17,(Unknown),(Unknown),
+Vendor43,In Progress,OUS,"Courroux, Switzerland","Starting Matertial Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Requalification,On Site,Q3,GN,SK,AA,21900,2/8/17,(Unknown),(Unknown),6/30/17,9/18/17,9/19/17,10/19/17,(Unknown),(Unknown),
+Vendor44,In Progress,OUS,"Latina,  ltaly","Starting Matertial Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Requalification,On Site,Q3,GN,JR,ES,21901,2/8/17,(Unknown),(Unknown),6/30/17,9/21/17,9/22/17,10/22/17,(Unknown),(Unknown),
+Vendor45,Cancelled,USA,"Knoxville, TN",Analytical Services,GMP,Requalification,None,Q3,GN,EZ,PW,21902,2/8/17,(Unknown),(Unknown),6/26/17,9/19/17,9/19/17,10/19/17,(Unknown),(Unknown),
+Vendor46,Pending,USA,"Brooks, KY","Pkg. & Labeling Mfg., Warehouse & Distribution",GMP/GDP,Requalification,On Site,Q4,GN,Vendor3,(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor47,Pending,USA,"Reno, NV","Pkg. & Labeling Mfg., Warehouse & Distribution",GMP/GDP,Requalification,On Site,Q4,GN,Vendor3,(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor48,Scheduled,USA,"Horsham, PA","DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP ,Requalification,On Site,Q4,GN,(Unknown),WS,(Unknown),2/8/17,(Unknown),(Unknown),9/14/17,10/24/17,10/25/17,11/24/17,(Unknown),(Unknown),
+Vendor49,Pending,OUS,"Rydalmere, Australia",Warehouse & Distribution,GDP,Requalification,Questionnaire,Q4,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor50,Cancelled,USA,"Somerset, NJ","Starting Matertial Mfg., DP Intermediate and/or DP Mfg.,  Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP ,Requalification,None,Q4,GN,RN,BM,21907,2/8/17,(Unknown),(Unknown),8/3/17,9/19/17,9/20/17,10/20/17,(Unknown),(Unknown),
+Vendor51,Pending,OUS,"Visp, Switzerland","Raw Material Mfg., Starting Material Mfg., DS Intermediate and/or DS Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution and Cell Bank Storage",GMP ,Requalification,On Site,Q4,GN,(Unknown),TB,(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor52,In Progress,USA,"Columbia, SC","Starting Matertial Mfg., DP Intermediate and/or DP Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP ,Requalification,On Site,Q4,GN,(Unknown),DF,21911,2/8/17,(Unknown),(Unknown),8/3/17,9/26/17,9/27/17,10/27/17,(Unknown),(Unknown),
+Vendor53,Not In Scope,OUS,"Starnberg, Germany",Device Mfg.,GMP ,Qualification,(Unknown),Q4,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor54,Not In Scope,USA,"Midlothian, VA",Device Mfg.,GMP ,Qualification,(Unknown),Q4,GN,(Unknown),(Unknown),(Unknown),2/8/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor55,Closed,USA,"Mason, OH",Pathology services,GLP,Qualification,On Site,Q1,MM,RD,CL,23131,2/9/17,5/8/17,5/19/17,3/31/17,5/24/17,5/24/17,6/23/17,6/23/17,On-time,
+Vendor56,Not In Scope,USA,"Lenexa, KS",Bioanalytical,GLP,Requalification,None,Q1,MM,(Unknown),(Unknown),(Unknown),2/9/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor57,Not In Scope,OUS,"Montreal, Canada","Genetal Toxicology
+Drug Metabolism
+Toxicokinetics",GLP,Requalification,None,Q2,MM,(Unknown),(Unknown),(Unknown),2/9/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor58,Not In Scope,OUS,"Quebec City, Canada",Toxicokinetics,GLP,Requalification,None,Q2,MM,(Unknown),(Unknown),(Unknown),2/9/17,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor59,In Progress,OUS,"Assen, New Zealand",Bioanalytical,GLP,Requalification/Q,On Site,Q2,MM,OG,AK,(Unknown),2/9/17,(Unknown),(Unknown),6/29/17,9/19/17,9/21/17,10/21/17,(Unknown),(Unknown),
+Vendor60,Scheduled,USA,"Sterling, VA",Archival Services,GLP,Requalification,On Site,Q3,MM,RD,AA,(Unknown),2/9/17,(Unknown),(Unknown),6/16/17,11/15/17,11/16/17,12/16/17,(Unknown),(Unknown),
+Vendor61,Scheduled,USA,"Sterling, VA",Pathology services,GLP,Requalification,On Site,Q3,MM,(Unknown),AA,(Unknown),2/9/17,(Unknown),(Unknown),6/16/17,11/14/17,11/14/17,12/14/17,(Unknown),(Unknown),
+Vendor62,Scheduled,USA,"Middleton, WI",Bioanalytical,GLP ,Requalification,On Site,Q3,MM,RD,CL,(Unknown),2/9/17,(Unknown),(Unknown),6/29/17,11/29/17,12/1/17,12/31/17,(Unknown),(Unknown),
+Vendor63,Scheduled,USA,"Ithaca, NY",Bioanalytical,GLP,Requalification/Q,On Site,Q4,MM,(Unknown),BM,(Unknown),2/9/17,(Unknown),(Unknown),9/15/17,11/14/17,11/15/17,12/15/17,(Unknown),(Unknown),
+Vendor64,In Progress,USA,"East Millstone, NJ","Toxicokinetics
+Bioanalysis
+General Toxicology
+Inhalation
+Analytical
+Carcinogenicity
+Safety Pharmacology
+Reproductive Toxicology",GLP,Requalification/Q,On Site,Q4,MM,MM and KD,AA,(Unknown),2/9/17,(Unknown),(Unknown),8/31/17,10/3/17,10/5/17,11/4/17,(Unknown),(Unknown),
+Vendor65,Closed,USA,"Salt Lake City, UT","Data Transfer, Activity Testing & Sequencing Assay",GCP,Qualification,On Site,Q1,JMD,MR,DF,23141,2/24/17,(Unknown),(Unknown),3/17/17,4/19/17,4/20/17,5/20/17,5/19/17,On-time,
+Vendor66,Closed,USA,"Valencia, CA  San Jaun Capistrano, CA","Antigen Receptor Assay, Data transfer and Sample Receipt/management, and expiry",GCP,Requalification,On Site,Q2,JMD,JM,DF,23237,4/14/17,(Unknown),(Unknown),4/14/17,5/23/17,5/24/17,6/23/17,6/22/17,On-time,
+Vendor67,Not In Scope,USA,"Baltimore, MD",Biopsy Sample Kits & Sample Analysis,GLP,Qualification,"On Site 
+*CSQA did not participate",Q2,MM,MR,see notes,(Unknown),4/14/17,(Unknown),(Unknown),4/14/17,5/1/17,5/2/17,6/1/17,5/25/17,On-time,
+Vendor68,In Progress,OUS,"Neuland, Switzerland","Raw Material Mfg., Starting Matertial Mfg., DS Intermediate and/or DS Mfg., Analytical Services, Microbiology Services, Stability Testing Services, Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Qualification,Questionnaire,Q2,GN,JR,WS,22664,4/21/17,5/4/17,5/19/17,5/4/17,5/24/17,5/24/17,6/23/17,(Unknown),(Unknown),
+Vendor69,Closed,OUS,"Groningen, New Zealand",SDTM,GCP,Requalification,Remote,Q1,JMD,SK,AK,23178,3/8/17,(Unknown),(Unknown),3/6/17,3/6/17,3/6/17,4/5/17,4/5/17,On-time,
+Vendor70,Not In Scope,OUS,"Sydney, Australia",(Unknown),GCP,(Unknown),(Unknown),(Unknown),JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor71,Not In Scope,USA,"Columbia, MD",(Unknown),GCP,(Unknown),(Unknown),(Unknown),JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor72,Not In Scope,OUS,"Paris, France",(Unknown),GCP,(Unknown),None,(Unknown),JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor73,Not In Scope,OUS,"Dublin, Ireland",(Unknown),GCP,(Unknown),None,(Unknown),JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor74,Pending,USA,"Cincinati, OH",(Unknown),GCP,(Unknown),TBD,(Unknown),JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor75,Not In Scope,USA,"Madison, WI",Phase 1 Clinical Research Unit,GCP,Requalification,None,Q3,MJ,MJ,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),7/11/17,7/13/17,8/12/17,8/16/17,Delayed ,
+Vendor76,Closed,USA,"Bluebell, PA", Model,GCP,Requalification ,On Site,Q3,JMD,MS,BM,(Unknown),(Unknown),(Unknown),(Unknown),7/18/17,8/9/17,8/10/17,9/9/17,9/7/17,On-time,
+Vendor77,Cancelled,USA,"Moorestown, NJ","Packaging & Labeling Mfg., Warehouse & Distribution",GMP,Qualification,None,Q3,GN,(Unknown),BM,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor78,Completed,OUS,"Kaiseraugst, Switzerland","Method setup, method validation/co-validation, and method transfer, analytical testing for release and stability - for DP & DS",GMP,Qualification,On Site,Q3,GN,ZP,DF,23615,(Unknown),(Unknown),(Unknown),6/30/17,8/8/17,8/9/17,9/8/17,9/8/17,On-time,
+Vendor79,Closed,USA,"Princeton, NJ",electronic systems,GCP,Requalification ,Remote,Q3,MJ,(Unknown),DF,23605,(Unknown),(Unknown),(Unknown),8/2/17,8/22/17,8/23/17,9/22/17,9/25/17,Delayed ,
+Vendor80,Pending,OUS,"Nottingham, United Kingdom",(Unknown),GCP,Qualification,On Site,Q3,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor81,Not In Scope,USA,"Raliegh,NC",(Unknown),GCP,Qualification,None,Q3,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor82,In Progress,OUS,"Lisbon, Portugal",Warehouse & Distribution,GMP,Qualification,On Site,Q3,GN,Vendor3,WS,(Unknown),8/3/17,(Unknown),(Unknown),9/8/17,9/25/17,9/26/17,10/26/17,(Unknown),(Unknown),
+Vendor83,Not In Scope,USA,"Cambridge, MA",(Unknown),GCP,Qualification,None,Q3,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor84,Not In Scope,USA,"Durham, NC",(Unknown),GCP,Requalification,None,Q3,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor85,Not In Scope,USA,"Woburn, MA",(Unknown),GCP,Qualification,None,Q3,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor86,Scheduled,USA,"Rochester, NY"," Services for clinical trials, Project Management, Core Lab Services, Equipment Management ",GCP,Requalification,On Site,Q3 - Q4,JMD,KC,TBD,(Unknown),(Unknown),(Unknown),(Unknown),9/7/17,11/1/17,11/2/17,12/2/17,(Unknown),(Unknown),
+Vendor87,Pending,USA,Bethesda MD,(Unknown),GCP,Requalification,On Site,Q3 - Q4,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor88,Scheduled,OUS,"Fibtaine-les-Dijon, France",(Unknown),GCP,Requalification,On Site,Q3 - Q4,JMD,CH,TBD,(Unknown),(Unknown),(Unknown),(Unknown),9/7/17,11/13/17,11/14/17,12/14/17,(Unknown),(Unknown),
+Vendor89,Pending,OUS,"North Wales, Australia",(Unknown),GCP,Requalification,On Site,Q4,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor90,Pending,USA,"Los Angeles, CA",(Unknown),GCP,Requalification,On Site,Q4,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor91,Pending,OUS,"Singapore, Singapore",(Unknown),GCP,Requalification,On Site,Q4,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor92,Pending,OUS,"Dublin, Ireland",(Unknown),GCP,Requalification,On Site,Q4,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor93,Not In Scope,USA,"Puyallup, WA",(Unknown),GCP,Requalification,None,Q4,JMD,(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),(Unknown),
+Vendor94,In Progress,USA,"Middleton, WI",Analytical Services & Stability Testing Services for clinical and commercial (GMP),GMP,Qualification,On Site,Q4,GN,RN,PW,23616,(Unknown),(Unknown),(Unknown),(Unknown),8/31/17,8/31/17,9/30/17,(Unknown),(Unknown),
+Vendor95,Scheduled,OUS,"Leiden, Netherlands",Serve as CRU for phase 1 Study,GCP,Qualification,On Site,Q3,MJ,(Unknown),SK,(Unknown),(Unknown),(Unknown),(Unknown),8/21/17,11/13/17,11/14/17,12/14/17,(Unknown),(Unknown),
+Vendor96,Cancelled,USA,NJ/Los Angeles (Unknown),(Unknown),GCP,Requalification,None,Q3,JMD,MS,TBD,(Unknown),(Unknown),(Unknown),(Unknown),9/7/17,11/14/17,11/15/17,12/15/17,(Unknown),(Unknown),
